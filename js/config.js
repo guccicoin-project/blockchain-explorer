@@ -1,10 +1,10 @@
 const ExplorerConfig = {
-  apiBaseUrl: 'https://blockapi.turtlepay.io',
-  poolApiUrl: 'https://poolapi.turtlepay.io/',
-  poolListUrl: 'https://raw.githubusercontent.com/turtlecoin/turtlecoin-pools-json/master/v2/turtlecoin-pools.json',
-  ticker: 'TRTL',
-  maxSupply: 100000000000000,
+  apiBaseUrl: 'http://node1.guccicoin.cf:10181',
+  poolApiUrl: '',
+  poolListUrl: '',
+  ticker: 'GCX',
+  maxSupply: 1000000,
   decimalPoints: 2,
-  blockTargetTime: 30,
-  addressPrefix: 3914525
+  blockTargetTime: 300,
+  addressPrefix: 0x10154b6e
 }
