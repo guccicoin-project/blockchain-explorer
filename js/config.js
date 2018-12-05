@@ -1,5 +1,5 @@
 const ExplorerConfig = {
-  apiBaseUrl: 'http://node1.guccicoin.cf:10181',
+  apiBaseUrl: 'http://node1.guccicoin.cf:8080',
   poolApiUrl: '',
   poolListUrl: '',
   ticker: 'GCX',
